@@ -1,4 +1,4 @@
-module env
+module github.com/voyago/env
 
 go 1.17
 
