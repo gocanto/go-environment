@@ -1,4 +1,4 @@
-module environment
+module env
 
 go 1.17
 
