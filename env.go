@@ -1,4 +1,4 @@
-package handler
+package environment
 
 import (
 	"os"
@@ -6,7 +6,7 @@ import (
 
 const (
 	DefaultFileName = ".env"
-	PackageDir      = "env"
+	PackageDir      = "environment"
 )
 
 type Env struct {
