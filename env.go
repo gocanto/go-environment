@@ -7,7 +7,8 @@ import (
 )
 
 const (
-	FileName = ".env"
+	FileName   = ".env"
+	PackageDir = "environment"
 )
 
 type Env struct {
