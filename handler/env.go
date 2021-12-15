@@ -6,7 +6,7 @@ import (
 
 const (
 	DefaultFileName = ".env"
-	PackageDir      = "environment"
+	PackageDir      = "env"
 )
 
 type Env struct {
